@@ -7,5 +7,4 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log(oaeseInt(
-  height)+1)
+console.log(oaeseInt(height)+1)
